@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "app": "thistimer",
+  "channel": "stable",
+  "latestVersion": "19.8.10",
+  "minimumSupportedVersion": "19.8.10",
+  "updateLevel": "soft",
+  "visibility": "settings_only",
+  "title": "ThisTimer update available",
+  "message": "A new version of ThisTimer is available.",
+  "criticalReason": null,
+  "releaseDate": "2026-05-05",
+  "changelogUrl": "https://github.com/dmarczewski/ThisTimer-releases/releases/latest",
+  "downloadUrl": "https://github.com/dmarczewski/ThisTimer-releases/releases/latest",
+  "canSnooze": true,
+  "canSkipVersion": true,
+  "snoozeHours": 24,
+  "autoDownload": false,
+  "autoInstallOnQuit": false,
+  "showBackupOption": false,
+  "requiresBackupBeforeInstall": false
+}
